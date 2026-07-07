@@ -7,7 +7,7 @@ An AI-powered stock market analysis dashboard built with **Python**, **Streamlit
 
 ## 🚀 Live Demo
 
-🔗 **Live Application:** https://your-streamlit-app.streamlit.app
+🔗 **Live Application:** https://stock-market-prediction-nishant.streamlit.app
 
 ---
 
