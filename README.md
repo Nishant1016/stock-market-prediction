@@ -2,7 +2,6 @@
 
 An AI-powered stock market analysis dashboard built with **Python**, **Streamlit**, **TensorFlow**, and **Yahoo Finance**. The application allows users to visualize historical stock performance, analyze market trends using moving averages, and compare AI-generated predictions with actual stock prices through an intuitive interactive dashboard.
 
-> ⚠️ **Disclaimer:** This project is intended for educational and portfolio purposes only. It should not be considered financial or investment advice.
 
 ---
 
